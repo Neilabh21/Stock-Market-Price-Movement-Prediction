@@ -1,6 +1,7 @@
 # Requirements
-Python 3.8 or greater
-Python libraries -
-Scikit Learn
-TextBlob
+python >= 
+
+# Python libraries
+sklearn
+textblob
 nltk

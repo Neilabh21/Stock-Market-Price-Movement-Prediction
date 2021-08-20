@@ -1,7 +1,7 @@
 # Requirements
-python >= 
+python >= 3.8
 
 # Python libraries
-sklearn
+scikit-learn
 textblob
 nltk
